@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronak Malik</h1>
 <h3 align="center">"Crafting Code, Solving Problems, Delivering Impact"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronak-malik&label=Profile%20views&color=0e75b6&style=flat" alt="ronak-malik" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronak-malik" alt="ronak-malik" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ronak4twt" target="blank"><img src="https://img.shields.io/twitter/follow/ronak4twt?logo=twitter&style=for-the-badge" alt="ronak4twt" /></a> </p>
 
 - 🌱 I’m currently learning **MERN STACK & GEN AI**
 
@@ -25,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronak-malik&show_icons=true&locale=en" alt="ronak-malik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronak-malik&" alt="ronak-malik" /></p>
