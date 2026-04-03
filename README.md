@@ -1,5 +1,5 @@
 <h3 align="center">Ronak Malik</h3>
-<h3 align="center">"Create scalable web apps and intelligent GenAI solutions"</h3>
+<h3 align="center">MERN + Next.js | AI Agents (LangChain & LangGraph) | n8n Automation |  GenAI solutions | RAG </h3>
 
 
 ## Connect with me :
